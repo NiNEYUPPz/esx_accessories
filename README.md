@@ -2,17 +2,18 @@
 
 ## Download & Installation
 
-## Installation
-- Add this in your `server.cfg`:
-
 ## Requirements
 
 - [esx_skin](https://github.com/esx-framework/esx-core/tree/main/%5Bcore%5D/esx_skin)
 - [esx_datastore](https://github.com/esx-framework/esx_datastore) 
 
+
+## Installation
+- Add this in your `server.cfg`:
 ```
 ensure esx_accessories
 ```
+
 
 ## Legal
 
